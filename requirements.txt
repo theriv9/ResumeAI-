@@ -1,0 +1,8 @@
+streamlit
+azure-search-documents
+azure-core
+openai
+langchain
+langchain-openai
+PyPDF2
+python-dotenv
